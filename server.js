@@ -2,7 +2,7 @@ const Express = require("express");
 const path = require("path");
 
 const app = new Express();
-const port = 80;
+const port = process.env.PORT || 80;
 
 app.use(Express.static(path.join(__dirname, "/src")));
 

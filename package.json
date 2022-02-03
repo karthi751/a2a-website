@@ -1,0 +1,23 @@
+{
+  "name": "a2a-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthi751/a2a-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthi751/a2a-website/issues"
+  },
+  "homepage": "https://github.com/karthi751/a2a-website#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

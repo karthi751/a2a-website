@@ -266,7 +266,7 @@ background: #FFF;
 
 #hero-banner{
   overflow: hidden;
-  height: 700px;
+/*   height: 700px; */
   background: url('../images/banner/banner.jpg');
   background-size:cover;
   color:#fff;
@@ -302,7 +302,7 @@ margin-bottom:20px;
 line-height:35px; 
 
   text-align: right;
-  color: #FFF;
+/*   color: #FFF; */
 }
 #hero-banner a{
 width: 150px;

@@ -265,8 +265,7 @@ background: #FFF;
 }
 
 #hero-banner{
-  overflow: hidden;
-
+  overflow: auto;
   background: url('../images/banner/banner.jpg');
   background-size:cover;
   color:#fff;
